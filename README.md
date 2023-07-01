@@ -1,1 +1,1 @@
-# shopping-cart2023
+Shopping Cart hecho con HTML CSS JavaScript y React
